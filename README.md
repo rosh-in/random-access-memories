@@ -2,7 +2,7 @@
 
 > Demo - https://www.loom.com/share/e5aedafd5e6744a6b1e3a9372294b6bd
 
-> Built for a web3 hackathon.
+> Built at **Polygon Fellowship – Class of 2022**.
 
 Random Access Memories is a decentralized image‑sharing dapp that lets users to post images to an anonymous network of contributors and scroll a shared feed of all photos.
 
